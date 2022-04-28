@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "762722007050",
+    "firebase_url": "https://riegosystem-f06c6-default-rtdb.firebaseio.com",
+    "project_id": "riegosystem-f06c6",
+    "storage_bucket": "riegosystem-f06c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762722007050:android:bae9d48afcedb39f31c7f3",
+        "android_client_info": {
+          "package_name": "com.example.riegosystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762722007050-he763u4b750706qrak2q1qfk9fvasnhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riegosystem",
+            "certificate_hash": "03412e348ab647909497d65366704ee92e8e5b47"
+          }
+        },
+        {
+          "client_id": "762722007050-4qo0fgpm6k2l190v19i9ubpfls4rcail.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJe9pUVBKuCpSAz8DZCXXKyaDqlwB9WZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762722007050-4qo0fgpm6k2l190v19i9ubpfls4rcail.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
